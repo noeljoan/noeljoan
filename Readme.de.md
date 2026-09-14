@@ -260,8 +260,8 @@ Insbesondere in den Bereichen:
 
 # 📫 Kontakt
 
-- 💼 **LinkedIn:** [Dein LinkedIn-Profil]
-- 📧 **E-Mail:** [Deine E-Mail-Adresse]
+- 💼 **LinkedIn:**
+- 📧 **E-Mail:** noel.joan@hotmail.com
 
 ---
 
