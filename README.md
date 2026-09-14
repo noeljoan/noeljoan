@@ -304,8 +304,8 @@ Particularly:
 
 # 📫 Contact
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 📧 **Email:** [Your Email]
+- 💼 **LinkedIn:** 
+- 📧 **Email:** noel.joan@hotmail.com
 
 ---
 
