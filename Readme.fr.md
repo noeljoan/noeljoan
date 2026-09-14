@@ -260,8 +260,8 @@ Notamment dans les domaines suivants :
 
 # 📫 Contact
 
-- 💼 **LinkedIn:** [Votre profil LinkedIn]
-- 📧 **E-mail:** [Votre adresse e-mail]
+- 💼 **LinkedIn:**
+- 📧 **E-mail:** noel.joan@hotmail.com
 
 ---
 
